@@ -9,14 +9,13 @@ Uber clone script. CityCab – Uber clone app development. Technologically advan
 ## Getting Started
 
 <div style="text-align:center">
-  
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen1.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen2.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen3.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen4.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen5.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen6.jpg" width="240"/>
-<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/screen7.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot1.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot2.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot3.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot4.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot5.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot6.jpg" width="240"/>
+<img src="https://github.com/prof22/Flutter-firebase-Uber-Clone/blob/main/Screenshot7.jpg" width="240"/>
 </div>
 
 For help getting started with Flutter, view our
